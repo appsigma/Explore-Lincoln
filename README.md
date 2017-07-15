@@ -1,8 +1,8 @@
-Miwok App
+Explore Lincoln
 ===================================
 
-This app displays lists of vocabulary items for the user to learn the Miwok language.
-Used in a Udacity course in the Beginning Android Nanodegree.
+This app displays lists of popular attractions in the city of Lincoln, Nebraska.
+This project was completed for the Udacity Multi-Screen Apps course.
 
 Pre-requisites
 --------------
