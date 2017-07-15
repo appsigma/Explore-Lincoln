@@ -109,6 +109,13 @@
         <string name="hudl_address">151 N 8th St #200\nLincoln, NE 68508</string>
         <string name="hudl_phone">(402) 817&#8211;0060</string>
 
+        <!-- Opendorse Strings -->
+        <string name="opendorse_name">Opendorse</string>
+        <string name="opendorse_text">Opendorse connects marketers with athletes to secure sponsored
+                social media activations from the world\'s most influential athletes.</string>
+        <string name="opendorse_address">1320 P St #201\nLincoln, NE 68508</string>
+        <string name="opendorse_phone">(402) 413&#8211;0766</string>
+
         <!-- Firespring Strings -->
         <string name="firespring_name">Firespring</string>
         <string name="firespring_text">Firespring provides an unmatched range of integrated print,
@@ -117,12 +124,5 @@
             enterprises.</string>
         <string name="firespring_address">1201 Infinity Ct\nLincoln, NE 68512</string>
         <string name="firespring_phone">(402) 437&#8211;0000</string>
-
-        <!-- Opendorse Strings -->
-        <string name="opendorse_name">Opendorse</string>
-        <string name="opendorse_text">opendorse connects marketers with athletes to secure sponsored
-            social media activations from the world\'s most influential athletes.</string>
-        <string name="opendorse_address">1320 P St #201\nLincoln, NE 68508</string>
-        <string name="opendorse_phone">(402) 413&#8211;0766</string>
 
 </resources>
