@@ -1,0 +1,128 @@
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Explore Lincoln</string>
+
+    <!-- Category name for things to do in Lincoln[CHAR LIMIT=20] -->
+    <string name="category_todo">To Do</string>
+
+    <!-- Category name for food in Lincoln [CHAR LIMIT=20] -->
+    <string name="category_food">Food</string>
+
+    <!-- Category name for bars in Lincoln [CHAR LIMIT=20] -->
+    <string name="category_bars">Bars</string>
+
+    <!-- Category name for startups in Lincoln  [CHAR LIMIT=20] -->
+    <string name="category_startups">Start Ups</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- To Do Category Strings -->
+
+        <!-- Memorial Stadium Strings -->
+        <string name="memorial_name">Memorial Stadium</string>
+        <string name="memorial_text">Home field of Nebraska Cornhuskers holding over 85,000
+            football fans with a history dating to 1922.</string>
+        <string name="memorial_address">One Memorial Stadium Dr\nLincoln, NE 68588</string>
+        <string name="memorial_phone">(800)&#8211;8&#8211;BIGRED</string>
+
+        <!-- Sheldon Museum of Art Strings -->
+        <string name="sheldon_name">Sheldon Museum of Art</string>
+        <string name="sheldon_text">Center known for American works, including 19th-century
+            landscapes &amp; pop art, with sculpture garden.</string>
+        <string name="sheldon_address">1209 R St\nLincoln, NE 68508</string>
+        <string name="sheldon_phone">(402) 472&#8211;2461</string>
+
+        <!-- Sunken Garden Strings -->
+        <string name="sunken_name">Sunken Gardens</string>
+        <string name="sunken_text">Built in 1930, this garden features sculptures, lawn space
+            &amp; lily ponds amid lush landscaping.</string>
+        <string name="sunken_address">S 27th St\nLincoln, NE 68502</string>
+        <string name="sunken_phone">(402) 441&#8211;8258</string>
+
+    <!-- Food Category Strings -->
+
+        <!-- Hiro 88 Strings -->
+        <string name="hiro88_name">Hiro 88 Haymarket</string>
+        <string name="hiro88_text">Upscale stylish outfit serving Pan-Asian cuisine, classic
+            sushi &amp; fine wines in a modern interior.</string>
+        <string name="hiro88_address">601 R St #100\nLincoln, NE 68508</string>
+        <string name="hiro88_phone">(402) 261&#8211;9388</string>
+
+        <!-- Vincenzo's Ristorante Strings -->
+        <string name="vincenzo_name">Vincenzo\'s Ristorante</string>
+        <string name="vincenzo_text">Italian eatery featuring an extensive selection of familiar
+            dishes in a setting with exposed brick.</string>
+        <string name="vincenzo_address">808 P St\nLincoln, NE 68508</string>
+        <string name="vincenzo_phone">(402) 435&#8211;3889</string>
+
+        <!-- Phat Jack's BBQ Strings -->
+        <string name="phatjack_name">Phat Jack\'s BBQ</string>
+        <string name="phatjack_text">No-frills, counter-serve joint dishing up ample portions
+            of Kansas City BBQ &amp; homestyle sides.</string>
+        <string name="phatjack_address">101 Southwest 14th St\nLincoln, NE 68528</string>
+        <string name="phatjack_phone">(402) 464&#8211;7428</string>
+
+    <!-- Bar Category Strings -->
+
+        <!-- Barry's The Nebraska Bar Strings -->
+        <string name="barry_name">Barry\'s The Nebraska Bar</string>
+        <string name="barry_text">College sports bar offering a roof deck with stadium views
+            &amp; a typical menu of beer &amp; comfort food.</string>
+        <string name="barry_address">601 R St #100\nLincoln, NE 68508</string>
+        <string name="barry_phone">(402) 476&#8211;6511</string>
+
+        <!-- Longwell's Strings -->
+        <string name="longwell_name">Longwell\'s</string>
+        <string name="longwell_text">Sports &amp; craft beer bar with pub eats &amp; more than 100 draft
+            brews in a lively tavern space with TVs.</string>
+        <string name="longwell_address">350 Canopy St #100\nLincoln, NE 68508</string>
+        <string name="longwell_phone">(402) 904&#8211;5283</string>
+
+        <!-- Buzzard Billy's Strings -->
+        <string name="buzzard_name">Buzzard Billy\'s</string>
+        <string name="buzzard_text">New Orleans-style chain joint with a roadhouse decor
+            dishing up Cajun-Creole grub &amp; local brews.</string>
+        <string name="buzzard_address">247 N 8th St #101\nLincoln, NE 68508</string>
+        <string name="buzzard_phone">(402) 475&#8211;8822</string>
+
+    <!-- Start Up Category Strings -->
+
+        <!-- Hudl Strings -->
+        <string name="hudl_name">Hudl</string>
+        <string name="hudl_text">Hudl provides video review and performance analysis tools for
+            sports teams and athletes at every level.</string>
+        <string name="hudl_address">151 N 8th St #200\nLincoln, NE 68508</string>
+        <string name="hudl_phone">(402) 817&#8211;0060</string>
+
+        <!-- Firespring Strings -->
+        <string name="firespring_name">Firespring</string>
+        <string name="firespring_text">Firespring provides an unmatched range of integrated print,
+            creative, website and IT solutions in addition to subscription-based software and
+            turnkey marketing tools for nonprofits, small-to-midsize businesses and large
+            enterprises.</string>
+        <string name="firespring_address">1201 Infinity Ct\nLincoln, NE 68512</string>
+        <string name="firespring_phone">(402) 437&#8211;0000</string>
+
+        <!-- Opendorse Strings -->
+        <string name="opendorse_name">Opendorse</string>
+        <string name="opendorse_text">opendorse connects marketers with athletes to secure sponsored
+            social media activations from the world\'s most influential athletes.</string>
+        <string name="opendorse_address">1320 P St #201\nLincoln, NE 68508</string>
+        <string name="opendorse_phone">(402) 413&#8211;0766</string>
+
+</resources>
