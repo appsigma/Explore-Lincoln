@@ -28,7 +28,7 @@
     <!-- Category name for startups in Lincoln  [CHAR LIMIT=20] -->
     <string name="category_startups">Start Ups</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
+    <!-- Blank Fragment text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
     <!-- To Do Category Strings -->
