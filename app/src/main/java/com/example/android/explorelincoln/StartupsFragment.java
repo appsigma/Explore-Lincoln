@@ -29,10 +29,10 @@ public class StartupsFragment extends Fragment {
 
         items.add(new Item(getString(R.string.hudl_name), getString(R.string.hudl_text),
                 getString(R.string.hudl_address), getString(R.string.hudl_phone), R.drawable.hudl));
-        items.add(new Item(getString(R.string.firespring_name), getString(R.string.firespring_text),
-                getString(R.string.firespring_address), getString(R.string.firespring_phone), R.drawable.firespring));
         items.add(new Item(getString(R.string.opendorse_name), getString(R.string.opendorse_text),
                 getString(R.string.opendorse_address), getString(R.string.opendorse_phone), R.drawable.opendorse));
+        items.add(new Item(getString(R.string.firespring_name), getString(R.string.firespring_text),
+                getString(R.string.firespring_address), getString(R.string.firespring_phone), R.drawable.firespring));
 
         // Create an {@link ItemAdapter}, whose data source is a list of {@link Item}s. The
         // adapter knows how to create list items for each item in the list.
